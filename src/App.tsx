@@ -58,8 +58,6 @@ function App() {
         color: "white",
       }}
     >
-      {/* 메인 컨텐츠 */}
-
       <div
         style={{
           maxWidth: "720px",
